@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @iness18
+- 👀 I’m interested in mobile and website development
+- 👨🏻‍💻 I study IT development !  
+- 🌱 I’m currently learning React, Java, JS, TypeScript...
