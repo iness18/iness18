@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @iness18
-- 👀 I’m interested in Big data
-- 👨🏻‍💻 I study Big Data !  
+- 👨🏻‍💻 I’m a Data Engineer Junior !  
 - 🌱 I’m currently learning Python, Spark, SQL...
